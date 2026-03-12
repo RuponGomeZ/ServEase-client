@@ -1,4 +1,4 @@
-# 🚀 ServEase Backend — Service Sharing Web Application API
+# 🚀 ServEase client — Service Sharing Web Application API
 
 This is the backend server for **ServEase**, a service-sharing web application that allows users to manage, book, and update services. Built with Express.js and MongoDB, this RESTful API supports JWT-based authentication and secure CRUD operations.
 
